@@ -1,0 +1,1908 @@
+1538206767216	geckodriver	INFO	geckodriver 0.21.0
+1538206767223	geckodriver	INFO	Listening on 127.0.0.1:33276
+1538206770273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.pTKumQUgCZfy"
+1538206771925	Marionette	INFO	Listening on port 33288
+1538206772393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538206772444	Marionette	DEBUG	[6442450945] Frame script loaded
+1538206772445	Marionette	DEBUG	[6442450945] Frame script registered
+1538206772463	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538206773149	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538206773274	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nz.iherb.com/
+1538206777297	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nz.iherb.com/
+1538206778400	Marionette	INFO	Stopped listening on port 33288
+[Parent 12892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 812, Chrome_IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000D,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560016,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A0007,name=PHttpChannel::Msg_Redirect2Verify) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560016,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15216, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538207031184	geckodriver	INFO	geckodriver 0.21.0
+1538207031195	geckodriver	INFO	Listening on 127.0.0.1:33740
+1538207034239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.PxpLCgTy1zT5"
+1538207035780	Marionette	INFO	Listening on port 33752
+1538207035860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538207035905	Marionette	DEBUG	[6442450945] Frame script loaded
+1538207035909	Marionette	DEBUG	[6442450945] Frame script registered
+1538207035931	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538207036632	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538207036765	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nz.iherb.com/
+1538207040464	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nz.iherb.com/
+1538207040688	Marionette	INFO	Stopped listening on port 33752
+[Parent 8568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6576, Chrome_ChildThread] WARNING: pipe error: 109: file z:[Parent 8568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4988, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538207091852	geckodriver	INFO	geckodriver 0.21.0
+1538207091859	geckodriver	INFO	Listening on 127.0.0.1:33904
+1538207094908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.unpekHmjqo6Q"
+1538207096546	Marionette	INFO	Listening on port 33916
+1538207097041	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538207097086	Marionette	DEBUG	[6442450945] Frame script loaded
+1538207097087	Marionette	DEBUG	[6442450945] Frame script registered
+1538207097098	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538207097426	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538207098138	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.python.org/
+1538207099159	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.python.org/
+1538207099286	Marionette	INFO	Stopped listening on port 33916
+[Child 15232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ip[Parent 9412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13104, Chrome_Chi[GPU 13236, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538207133222	geckodriver	INFO	geckodriver 0.21.0
+1538207133229	geckodriver	INFO	Listening on 127.0.0.1:33995
+1538207136263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.HnMJsm27YMt3"
+1538207137751	Marionette	INFO	Listening on port 34007
+1538207137911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538207137938	Marionette	DEBUG	[6442450945] Frame script loaded
+1538207137939	Marionette	DEBUG	[6442450945] Frame script registered
+1538207137958	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538207138294	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538207139077	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.python.org/
+1538207139997	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.python.org/
+1538207145100	Marionette	INFO	Stopped listening on port 34007
+[Parent 9348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6832, Chrome_C[Parent 9348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9704, Chrome_[GPU 15408, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538207245279	geckodriver	INFO	geckodriver 0.21.0
+1538207245286	geckodriver	INFO	Listening on 127.0.0.1:34191
+1538207248339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.8jxtnSoTJn8E"
+1538207250148	Marionette	INFO	Listening on port 34203
+1538207250454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538207250482	Marionette	DEBUG	[6442450945] Frame script loaded
+1538207250483	Marionette	DEBUG	[6442450945] Frame script registered
+1538207250495	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538207251268	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538207251364	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nz.iherb.com/
+1538207254644	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nz.iherb.com/
+[Parent 7760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10532, Chrome_ChildThread] [Child 5504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5504, Chro1538207311030	Marionette	INFO	Stopped listening on port 34203
+[GPU 2196, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538207324555	geckodriver	INFO	geckodriver 0.21.0
+1538207324563	geckodriver	INFO	Listening on 127.0.0.1:34380
+1538207327601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.Y2hubSeKiYdj"
+1538207329263	Marionette	INFO	Listening on port 34392
+1538207329723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538207329783	Marionette	DEBUG	[6442450945] Frame script loaded
+1538207329785	Marionette	DEBUG	[6442450945] Frame script registered
+1538207329797	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538207330324	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538207330443	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nz.iherb.com/
+1538207333770	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nz.iherb.com/
+1538207339038	Marionette	INFO	Stopped listening on port 34392
+[Child 17032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/buil[Child 3376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 340, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538207605383	geckodriver	INFO	geckodriver 0.21.0
+1538207605390	geckodriver	INFO	Listening on 127.0.0.1:34890
+1538207608430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.l19ls12rT0Kn"
+1538207610112	Marionette	INFO	Listening on port 34902
+1538207610547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538207610582	Marionette	DEBUG	[6442450945] Frame script loaded
+1538207610583	Marionette	DEBUG	[6442450945] Frame script registered
+1538207610599	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538207611081	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538207611196	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nz.iherb.com/
+1538207615190	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nz.iherb.com/
+1538207622937	Marionette	INFO	Stopped listening on port 34902
+[Child 15380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 11388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 14680, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538207650756	geckodriver	INFO	geckodriver 0.21.0
+1538207650765	geckodriver	INFO	Listening on 127.0.0.1:35038
+1538207653785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.QRr6UotQAvXz"
+1538207655446	Marionette	INFO	Listening on port 35052
+1538207655899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538207655942	Marionette	DEBUG	[6442450945] Frame script loaded
+1538207655945	Marionette	DEBUG	[6442450945] Frame script registered
+1538207655957	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538207656634	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538207656727	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nz.iherb.com/
+1538207660632	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nz.iherb.com/
+1538207666641	Marionette	INFO	Stopped listening on port 35052
+[Child 13548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13548IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 10564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/co
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+mmon/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 32, Chrome_ChildThread] WARNI
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538208010158	geckodriver	INFO	geckodriver 0.21.0
+1538208010165	geckodriver	INFO	Listening on 127.0.0.1:35655
+1538208013215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.GmlvLwedsrMi"
+1538208014803	Marionette	INFO	Listening on port 35667
+1538208014850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538208014884	Marionette	DEBUG	[6442450945] Frame script loaded
+1538208014888	Marionette	DEBUG	[6442450945] Frame script registered
+1538208014910	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538208015310	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538208022569	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.trademe.co.nz/
+1538208023268	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1538208025379	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.trademe.co.nz/
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:613:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:613:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+[Child 2740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 16388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+n/ipc_channel_win.cc, line 346
+[Child 16388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2836, Chrome1538208056250	Marionette	INFO	Stopped listening on port 35667
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538208070158	geckodriver	INFO	geckodriver 0.21.0
+1538208070165	geckodriver	INFO	Listening on 127.0.0.1:35886
+1538208073235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.gdQAa6ttbSEo"
+1538208074902	Marionette	INFO	Listening on port 35898
+1538208075356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538208075409	Marionette	DEBUG	[6442450945] Frame script loaded
+1538208075410	Marionette	DEBUG	[6442450945] Frame script registered
+1538208075423	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538208075742	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538208076750	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.trademe.co.nz/
+1538208078199	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1538208079836	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.trademe.co.nz/
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:613:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:613:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+[Child 15508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15508, ChroIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 15408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build1538208148329	Marionette	INFO	Stopped listening on port 35898
+[GPU 6108, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538208149333	geckodriver	INFO	geckodriver 0.21.0
+1538208149340	geckodriver	INFO	Listening on 127.0.0.1:36140
+1538208152398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.F0rucfmhDuNk"
+1538208154237	Marionette	INFO	Listening on port 36152
+1538208154520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538208154578	Marionette	DEBUG	[6442450945] Frame script loaded
+1538208154580	Marionette	DEBUG	[6442450945] Frame script registered
+1538208154590	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538208154928	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538208155730	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.trademe.co.nz/
+1538208157193	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1538208159254	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.trademe.co.nz/
+1538208162385	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=100&user_district=0&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538208162702	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=100&user_district=0&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538208162704	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=100&user_district=0&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538208163007	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1538208163007	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1538208163265	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=12&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538208164449	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=12&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538208167453	Marionette	INFO	Stopped listening on port 36152
+[Child 15700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 16388, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538208184091	geckodriver	INFO	geckodriver 0.21.0
+1538208184099	geckodriver	INFO	Listening on 127.0.0.1:36331
+1538208187149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.vYrqWc4Xi0FK"
+1538208188629	Marionette	INFO	Listening on port 36343
+1538208188773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538208188810	Marionette	DEBUG	[6442450945] Frame script loaded
+1538208188813	Marionette	DEBUG	[6442450945] Frame script registered
+1538208188835	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538208189164	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538208190101	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.trademe.co.nz/
+1538208191509	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1538208193892	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.trademe.co.nz/
+1538208197048	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=100&user_district=0&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538208197426	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=100&user_district=0&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538208197428	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=100&user_district=0&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538208197754	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1538208197755	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450981
+1538208197755	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1538208198025	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=12&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538208199757	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450996
+1538208200096	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=12&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538208210104	Marionette	INFO	Stopped listening on port 36343
+[Parent 4628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2216, Chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 2972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2972, Chr[GPU 17244, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538208867009	geckodriver	INFO	geckodriver 0.21.0
+1538208867018	geckodriver	INFO	Listening on 127.0.0.1:37420
+1538208870068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.gbNVUMScObAZ"
+1538208871578	Marionette	INFO	Listening on port 37432
+1538208871713	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538208871747	Marionette	DEBUG	[6442450945] Frame script loaded
+1538208871749	Marionette	DEBUG	[6442450945] Frame script registered
+1538208871764	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538208872140	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538208873044	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.trademe.co.nz/
+1538208874778	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1538208876937	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.trademe.co.nz/
+1538208879988	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=100&user_district=0&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538208880248	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=100&user_district=0&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538208880248	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=100&user_district=0&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538208880375	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1538208880375	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1538208880690	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=12&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538208881744	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=12&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538208886883	Marionette	INFO	Stopped listening on port 37432
+[Parent 16912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bu
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 16912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8616, Chrome_ChildT[GPU 1576, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538212834434	geckodriver	INFO	geckodriver 0.21.0
+1538212834442	geckodriver	INFO	Listening on 127.0.0.1:43403
+1538212837475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.KvefOS7GlowP"
+1538212839383	Marionette	INFO	Listening on port 43415
+1538212839698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538212839762	Marionette	DEBUG	[6442450945] Frame script loaded
+1538212839764	Marionette	DEBUG	[6442450945] Frame script registered
+1538212839779	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538212840105	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538212840949	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.trademe.co.nz/
+1538212842636	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1538212844685	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.trademe.co.nz/
+1538212849135	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=100&user_district=0&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538212849510	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=100&user_district=0&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538212849510	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=100&user_district=0&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538212849639	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1538212849640	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1538212849641	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1538212849963	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=12&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538212851197	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=12&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538212856344	Marionette	INFO	Stopped listening on port 43415
+[Child 11000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 7948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiu
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+m/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 7948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8596, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538361278858	geckodriver	INFO	geckodriver 0.21.0
+1538361278870	geckodriver	INFO	Listening on 127.0.0.1:64278
+1538361281982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.kTTbJAOLMvH9"
+1538361284457	Marionette	INFO	Listening on port 64290
+1538361284740	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538361284784	Marionette	DEBUG	[6442450945] Frame script loaded
+1538361284786	Marionette	DEBUG	[6442450945] Frame script registered
+1538361284814	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538361285103	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538361286173	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.trademe.co.nz/
+1538361287901	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1538361296018	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.trademe.co.nz/
+1538361299321	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=100&user_district=0&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538361299575	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=100&user_district=0&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538361299576	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=100&user_district=0&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538361299704	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451015
+1538361299704	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451013
+1538361299972	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=12&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538361301132	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=books&type=Search&searchType=all&user_region=12&generalSearch_keypresses=5&generalSearch_suggested=0&generalSearch_suggestedCategory=
+1538361306271	Marionette	INFO	Stopped listening on port 64290
+[Child 12836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539112434597	geckodriver	INFO	geckodriver 0.21.0
+1539112434628	geckodriver	INFO	Listening on 127.0.0.1:64161
+1539112437748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.nyS5ZIKLjEAe"
+1539112440001	Marionette	INFO	Listening on port 64173
+1539112440038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539112440078	Marionette	DEBUG	[6442450945] Frame script loaded
+1539112440106	Marionette	DEBUG	[6442450945] Frame script registered
+1539112440133	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539112440965	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539112441746	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.python.org/
+1539112442642	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.python.org/
+1539112442747	Marionette	INFO	Stopped listening on port 64173
+[Child 18164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8964, Chrome_ChildThread] WARNING: pipe error: 109: file z[GPU 9360, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539112453879	geckodriver	INFO	geckodriver 0.21.0
+1539112453879	geckodriver	INFO	Listening on 127.0.0.1:64224
+1539112456912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.LfBMrbaK7NKi"
+1539112458680	Marionette	INFO	Listening on port 64236
+1539112459060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539112459104	Marionette	DEBUG	[6442450945] Frame script loaded
+1539112459105	Marionette	DEBUG	[6442450945] Frame script registered
+1539112459116	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539112459293	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539112460094	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.python.org/
+1539112461062	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.python.org/
+[Child 14164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539112572744	Marionette	INFO	Stopped listening on port 64236
+[GPU 15684, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540334169525	geckodriver	INFO	geckodriver 0.21.0
+1540334169563	geckodriver	INFO	Listening on 127.0.0.1:52079
+1540334172657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.dTg6AFSMdiat"
+1540334175766	Marionette	INFO	Listening on port 52091
+1540334175893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540334175934	Marionette	DEBUG	[6442450945] Frame script loaded
+1540334175972	Marionette	DEBUG	[6442450945] Frame script registered
+1540334176024	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540334176155	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540334176539	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540334178491	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540334181043	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 3936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9204, Chrome_C1540334183302	Marionette	INFO	Stopped listening on port 52091
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540335734326	geckodriver	INFO	geckodriver 0.21.0
+1540335734334	geckodriver	INFO	Listening on 127.0.0.1:54655
+1540335737393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.JGE6eDJUUWjb"
+1540335739490	Marionette	INFO	Listening on port 54670
+1540335739520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540335739573	Marionette	DEBUG	[6442450945] Frame script loaded
+1540335739576	Marionette	DEBUG	[6442450945] Frame script registered
+1540335739604	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540335739732	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540335740130	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540335741658	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540335745660	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 26224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17716, Chrome_Chi[Parent 22852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540335755331	Marionette	INFO	Stopped listening on port 54670
+[GPU 23644, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540335943105	geckodriver	INFO	geckodriver 0.21.0
+1540335943112	geckodriver	INFO	Listening on 127.0.0.1:55060
+1540335946147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.yADresJnMdd7"
+1540335947995	Marionette	INFO	Listening on port 55072
+1540335948272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540335948311	Marionette	DEBUG	[6442450945] Frame script loaded
+1540335948312	Marionette	DEBUG	[6442450945] Frame script registered
+1540335948328	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540335948683	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540335949011	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540335950374	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540335953078	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 8448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line[Child 17716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21944, Chrome_Chil1540335956601	Marionette	INFO	Stopped listening on port 55072
+[GPU 27468, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540336842076	geckodriver	INFO	geckodriver 0.21.0
+1540336842084	geckodriver	INFO	Listening on 127.0.0.1:56456
+1540336845150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.RD87vTucAZ0w"
+1540336846768	Marionette	INFO	Listening on port 56470
+1540336847274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540336847315	Marionette	DEBUG	[6442450945] Frame script loaded
+1540336847317	Marionette	DEBUG	[6442450945] Frame script registered
+1540336847331	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540336847873	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540336848292	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540336849426	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540336852891	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 28224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 28224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540336931095	Marionette	INFO	Stopped listening on port 56470
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540336942705	geckodriver	INFO	geckodriver 0.21.0
+1540336942712	geckodriver	INFO	Listening on 127.0.0.1:56707
+1540336945758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.mxyUJH6PQwHx"
+1540336947468	Marionette	INFO	Listening on port 56721
+1540336947875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540336947949	Marionette	DEBUG	[6442450945] Frame script loaded
+1540336947950	Marionette	DEBUG	[6442450945] Frame script registered
+1540336947963	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540336948032	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540336948334	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540336949421	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540336952435	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 27484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540337264523	Marionette	INFO	Stopped listening on port 56721
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+337068830	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 13776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18952, Chr[Parent 13776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540337220066	Marionette	INFO	Stopped listening on port 56971
+[GPU 28184, Chrome_ChildThrea
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540337119396	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540337123256	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 19760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540337218594	Marionette	INFO	Stopped listening on port 57128
+[GPU 23456, Chrome_ChildThread]
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+handler returned false (indicating failure)
+
+[Parent 27956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 27956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 27956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540337217732	Marionette	INFO	Stopped listening on port 57315
+[GPU 23168, Chrome_ChildThread
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540337256247	geckodriver	INFO	geckodriver 0.21.0
+1540337256259	geckodriver	INFO	Listening on 127.0.0.1:57486
+1540337259272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.SSDcixMRnftI"
+1540337261790	Marionette	INFO	Listening on port 57500
+1540337261989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540337262043	Marionette	DEBUG	[6442450945] Frame script loaded
+1540337262045	Marionette	DEBUG	[6442450945] Frame script registered
+1540337262058	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540337262130	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540337262593	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540337264744	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540337267869	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge1540337385945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.ygbS7WTqkDUy"
+1540337387884	Marionette	INFO	Listening on port 57761
+1540337388058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540337388099	Marionette	DEBUG	[6442450945] Frame script loaded
+1540337388100	Marionette	DEBUG	[6442450945] Frame script registered
+1540337388113	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540337388157	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540337388489	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540337389835	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540337392761	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 1932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1932, Chrome_[Child 1320[Parent 4240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540337535208	Marionette	INFO	Stopped listening on port 57761
+[GPU 17264, Chrome_ChildThread] WARNING: pipe error
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rc/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9764, Chrome_ChildThread] [Child 27912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/[Parent 27024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540337385371	Marionette	INFO	Stopped listening on port 57500
+[GPU 16176, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540337536271	geckodriver	INFO	geckodriver 0.21.0
+1540337536278	geckodriver	INFO	Listening on 127.0.0.1:58081
+1540337539345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.I8mROGxSr5se"
+1540337540842	Marionette	INFO	Listening on port 58093
+1540337540976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540337541012	Marionette	DEBUG	[6442450945] Frame script loaded
+1540337541015	Marionette	DEBUG	[6442450945] Frame script registered
+1540337541043	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540337541887	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540337542234	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+JavaScript error: https://player.vimeo.com/video/264019159, line 265: ReferenceError: VimeoPlayer is not defined
+1540337544561	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540337547987	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+JavaScript error: resource://gre/modules/WebNavigationFrames.jsm, line 57: TypeError: window is null
+[Child 19764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19764, Ch[Parent 2504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19480, Chrome1540337848224	Marionette	INFO	Stopped listening on port 58093
+[GPU 26912, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540338167100	geckodriver	INFO	geckodriver 0.21.0
+1540338167107	geckodriver	INFO	Listening on 127.0.0.1:59259
+1540338170231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.gSmMWxvMwEmw"
+1540338172600	Marionette	INFO	Listening on port 59272
+1540338172950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540338172990	Marionette	DEBUG	[6442450945] Frame script loaded
+1540338172991	Marionette	DEBUG	[6442450945] Frame script registered
+1540338173030	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540338173790	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540338174254	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540338175655	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540338179518	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+1540338180423	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540338180624	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 11588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17344, Chrome_Child[Parent 11588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540338439411	Marionette	INFO	Stopped listening on port 59272
+[GPU 26020, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+event pagehide for about:blank
+1540338251244	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540338252751	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540338254882	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+1540338255798	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1540338256008	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540338256629	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 21580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16332, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1540338403888	Marionette	INFO	Stopped listening on port 59465
+[GPU 3188, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540338480129	geckodriver	INFO	geckodriver 0.21.0
+1540338480136	geckodriver	INFO	Listening on 127.0.0.1:59943
+1540338483146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.ITIEZaR7QwHw"
+1540338485089	Marionette	INFO	Listening on port 59955
+1540338485267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540338485303	Marionette	DEBUG	[6442450945] Frame script loaded
+1540338485306	Marionette	DEBUG	[6442450945] Frame script registered
+1540338485323	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540338485676	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540338486025	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540338487411	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540338490616	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+1540338491617	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1540338491831	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540338492486	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 2504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17804, Chro[Parent 2504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540338550550	Marionette	INFO	Stopped listening on port 59955
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540338551933	geckodriver	INFO	geckodriver 0.21.0
+1540338551940	geckodriver	INFO	Listening on 127.0.0.1:60128
+1540338554994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.Btuyrl8VpjkU"
+1540338556673	Marionette	INFO	Listening on port 60140
+1540338557113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540338557180	Marionette	DEBUG	[6442450945] Frame script loaded
+1540338557182	Marionette	DEBUG	[6442450945] Frame script registered
+1540338557193	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540338557261	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540338557652	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540338559040	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540338561069	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+1540338562430	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1540338562662	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540338563313	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540338563673	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1540339509520	Marionette	INFO	Stopped listening on port 60140
+[GPU 22436, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540339512983	geckodriver	INFO	geckodriver 0.21.0
+1540339512990	geckodriver	INFO	Listening on 127.0.0.1:61661
+1540339516030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.51scrD5ahDHM"
+1540339517598	Marionette	INFO	Listening on port 61675
+1540339517645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540339517686	Marionette	DEBUG	[6442450945] Frame script loaded
+1540339517695	Marionette	DEBUG	[6442450945] Frame script registered
+1540339517713	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540339517815	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540339518497	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540339519811	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540339521958	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+1540339523096	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1540339523342	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339523977	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339524312	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339524816	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 15692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1540339668951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.vaj3X3oS6rOH"
+1540339670598	Marionette	INFO	Listening on port 62007
+1540339671073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540339671122	Marionette	DEBUG	[6442450945] Frame script loaded
+1540339671124	Marionette	DEBUG	[6442450945] Frame script registered
+1540339671139	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540339671206	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540339671541	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540339672911	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540339676331	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+1540339677392	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1540339677604	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339678208	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339678481	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339678826	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 25716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10296, Chrome_ChildThread] WARNING: pipe er1540339752290	Marionette	INFO	Listening on port 62218
+1540339752373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540339752413	Marionette	DEBUG	[6442450945] Frame script loaded
+1540339752417	Marionette	DEBUG	[6442450945] Frame script registered
+1540339752438	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540339752527	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540339752883	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540339754201	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540339757312	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+1540339758242	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540339758443	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339758985	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339759252	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339759643	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 15172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3976, Chrome_ChildThread] WARNING:[ pipe Child 16024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/[Parent 15172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540339806154	Marionette	INFO	Stopped listening on port 62218
+[GPU 18924, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ DOMContentLoaded for http://www.ecostore.co.nz/
+1540339787748	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540339790090	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+1540339791106	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1540339791308	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339791854	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339792098	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 15568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/[Child 24156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24156, Chrome_ChildThread] WARNING: pipe error: 109: file z:[Parent 15568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540339806185	Marionette	INFO	Stopped listening on port 62361
+[GPU 21948, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540339809887	geckodriver	INFO	geckodriver 0.21.0
+1540339809894	geckodriver	INFO	Listening on 127.0.0.1:62464
+1540339812954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.6Ald5Um0CBAJ"
+1540339814820	Marionette	INFO	Listening on port 62476
+1540339815066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540339815090	Marionette	DEBUG	[6442450945] Frame script loaded
+1540339815091	Marionette	DEBUG	[6442450945] Frame script registered
+1540339815104	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540339815167	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540339815478	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540339816273	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540339819272	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+1540339820285	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1540339820486	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339821037	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339821313	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339821642	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 11124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1540339854607	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.ArnEuTlELZjU"
+1540339856256	Marionette	INFO	Listening on port 62610
+1540339856723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540339856801	Marionette	DEBUG	[6442450945] Frame script loaded
+1540339856802	Marionette	DEBUG	[6442450945] Frame script registered
+1540339856816	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540339857125	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540339857483	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540339859029	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540339862873	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+1540339863923	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540339864127	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339864865	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339865166	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339865586	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 12624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12624, Chrome_Chi[Parent 6084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540340087624	Marionette	INFO	Stopped listening on port 62610
+[GPU 28108, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ion
+1540339956171	Marionette	DEBUG	[6442450945] Frame script loaded
+1540339956179	Marionette	DEBUG	[6442450945] Frame script registered
+1540339956202	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540339956710	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540339957167	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540339958344	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540339961257	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+1540339962235	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1540339962440	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339963025	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339963293	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540339963706	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 22752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/co1540340087902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.k9C2G8bEiVrU"
+1540340089393	Marionette	INFO	Listening on port 63139
+1540340089525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540340089563	Marionette	DEBUG	[6442450945] Frame script loaded
+1540340089566	Marionette	DEBUG	[6442450945] Frame script registered
+1540340089611	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540340089675	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540340089960	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540340091171	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540340094025	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+1540340095001	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540340095270	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540340095867	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540340096131	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540340096554	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 14000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14000[Child 17180, Chrome_ChildThread] WARNING: ,p Gecko_IOTipe error:hread] WAR NING: pipe error: 1019: file z0:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3469
+: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17180, Chrome_ChildThread] WARNING: pipe erro[Child 19636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19636, Chrome_ChildThr[Parent 14000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540340149828	Marionette	INFO	Stopped listening on port 63139
+[GPU 15004, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540340155022	geckodriver	INFO	geckodriver 0.21.0
+1540340155031	geckodriver	INFO	Listening on 127.0.0.1:63329
+1540340158078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.xpUjMAsh3aEu"
+1540340159627	Marionette	INFO	Listening on port 63341
+1540340159710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540340159750	Marionette	DEBUG	[6442450945] Frame script loaded
+1540340159762	Marionette	DEBUG	[6442450945] Frame script registered
+1540340159792	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540340159898	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540340160241	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540340161467	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540340164794	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+1540340165752	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1540340165956	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540340166481	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540340166779	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540340167201	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 2520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build[Child 21556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21556, Chrome_Ch[Parent 7132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540340565376	Marionette	INFO	Stopped listening on port 63341
+[GPU 11656, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ter-window-destroyed for 6442450949
+1540340514234	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+1540340515204	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1540340515465	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540340516163	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540340516418	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540340516896	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 25060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc,[Parent 26488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 26488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540340563139	Marionette	INFO	Stopped listening on port 64035
+[GPU 27640, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540340630286	geckodriver	INFO	geckodriver 0.21.0
+1540340630294	geckodriver	INFO	Listening on 127.0.0.1:64309
+1540340633339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\angel\\AppData\\Local\\Temp\\rust_mozprofile.gJQQxKJV4FP0"
+1540340635132	Marionette	INFO	Listening on port 64321
+1540340635454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540340635522	Marionette	DEBUG	[6442450945] Frame script loaded
+1540340635524	Marionette	DEBUG	[6442450945] Frame script registered
+1540340635539	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540340635631	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540340635948	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ecostore.co.nz/
+1540340637131	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540340640087	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ecostore.co.nz/
+1540340641162	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540340641363	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540340641934	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540340642288	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540340642718	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 21388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21388, Ch[Child 17240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo[Parent 28152, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/sr1540340663051	Marionette	INFO	Stopped listening on port 64321
+[GPU 27276, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
